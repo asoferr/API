@@ -1,0 +1,17 @@
+{
+    "nome": "Korn",
+    "style": "camisetas",
+    "price": "179,80",
+    "image": "<img src= 'img/shopping.webp' width='240px'>" ,
+
+    "nome2": "Korn",
+    "style2": "tenis",
+    "price2": "389,00",
+    "image2": "<img src= 'img/tenis.webp' width='240px'>",
+
+    "nome3": "Korn",
+    "style3": "Funko Pop Rocks 242",
+    "price3": "104,99",
+    "image3": "<img src= 'img/shopping (1).webp' width='240px'>" 
+
+}
